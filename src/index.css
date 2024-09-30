@@ -321,7 +321,7 @@ main {
   width: 30rem;
   max-width: 90%;
   z-index: 10;
-  animation: slide-up-fade-in 300ms ease-out forwards;
+  /*animation: slide-up-fade-in 300ms ease-out forwards;*/
 }
 
 .modal h2 {
